@@ -60,3 +60,9 @@ Then we use command "yarn" and "yarn run dev" to configure yarn to manage JavaSc
 
 ![yarn4](/img//yarn4.png)
  After those steps you can go to the [http://localhost:3000](http://localhost:3000) in your browser, if you see the web page that shows above, then that means you succeed.
+
+ ![next2](/img/next2.png)
+ After entering this page click the [Check the full documentation](https://vulcan-docs.vercel.app/), and you will see this page, click the "Get started".
+
+ ![next3](/img/next3.png)
+ Then, you will see this page, in this page you can see many advanced features of VulcanNext.
